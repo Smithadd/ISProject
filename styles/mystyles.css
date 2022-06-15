@@ -1,0 +1,54 @@
+/*Addison Smith 6/12/22*/
+
+.italic{
+    font-style:italic !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    font: size 24px;
+    text-decoration: underline;
+}
+
+.homelink{
+    font-size: 45;
+}
+
+.mainbody{
+    top:114px;
+    bottom:64px;
+    left: 114px;
+    right:114px;
+    padding-right: 5px;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height:100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.color1{
+    background-color: #6e89ff !important;
+    
+}
+
+.common{
+    /*background-color: #cccccc;
+    border: solid 2 px white;*/
+    position:absolute;
+}
+
+body{
+    background-image: url("../images/img/bg.jpg");
+}
+
+.white{
+    color: white !important;
+}

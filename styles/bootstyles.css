@@ -1,0 +1,43 @@
+.nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #6e89ff;
+}
+
+.tab{
+    background-color: #6e89ff;
+}
+
+.foot{
+    margin-top: 5rpx;
+    margin-bottom: 5px;
+    background-color: #6e89ff;
+}
+
+.text-center {
+    text-align: center !important;
+  }
+
+.rounded {
+    border-radius: 0.25rem !important;
+}
+
+.p-5 {
+    padding: 3rem !important;
+}
+
+.p-4 {
+    padding: 1rem !important;
+}
+
+body{
+    background-image: url("../images/img/bg.jpg");
+}
+
+.color1{
+    background-color: #6e89ff;
+}
+
+.white{
+    color: white;
+}
